@@ -3292,11 +3292,11 @@ figure.highlight pre .javascript .function {
 #page-header #site-title {
   margin: 0;
   color: var(--white);
-  font-size: 1.85em;
+  font-size: 4em;
 }
 @media screen and (min-width: 768px) {
   #page-header #site-title {
-    font-size: 2.85em;
+    font-size: 6em;
   }
 }
 #page-header #site-subtitle {
@@ -3578,7 +3578,7 @@ figure.highlight pre .javascript .function {
   padding: 0 36px;
   width: 100%;
   height: 60px;
-  font-size: 1.3em;
+  font-size: 2em;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
   filter: alpha(opacity=0);
@@ -3635,6 +3635,7 @@ figure.highlight pre .javascript .function {
 #nav .site-name {
   text-shadow: 2px 2px 4px rgba(0,0,0,0.15);
   font-weight: bold;
+  font-size: 2;
 }
 #nav .menus_items {
   display: inline;
